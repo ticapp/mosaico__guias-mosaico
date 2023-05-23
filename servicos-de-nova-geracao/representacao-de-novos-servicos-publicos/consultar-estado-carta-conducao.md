@@ -77,55 +77,17 @@ Consultar estado da carta de condução.
 | Atividade                                | Descrição                                                                                                                                       |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Acesso via redes sociais                 | O processo começa com o acesso do cidadão à página de Enquadramento do Balcão do Condutor, via redireccionamento de rede social.                |
-| Acesso via ePortugal                     | O processo começa com o acesso do cidadão ao portal ePortugal.                                                                                  |
+| Acesso via PDUN                          | O processo começa com o acesso do cidadão ao portal digital único nacional.                                                                     |
 | Acesso via motor de pesquisa             | O processo começa com o acesso do cidadão à página da ficha do serviço, via resultado de uma pesquisa na internet.                              |
 | Visualizar página de enquadramento       | Na página de enquadramento do Balcão do Condutor, o cidadão seleciona o serviço, sendo encaminhado para a página da ficha do serviço do mesmo.  |
-| Selecionar destaque Balcão do Condutor   | No portal ePortugal, o cidadão seleciona o destaque do Balcão do Condutor e é encaminhado para a página de enquadramento do Balcão do Condutor. |
-| Selecionar serviço no quadro de serviços | No portal ePortugal, o cidadão seleciona o serviço no quadro de serviços e é encaminhado para a página da ficha de serviço.                     |
-| Pesquisar e selecionar serviço           | No portal ePortugal, o cidadão pesquisa pelo serviço e ao selecioná-lo é encaminhado para a página da ficha de serviço.                         |
+| Selecionar destaque Balcão do Condutor   | No PDUN, o cidadão seleciona o destaque do Balcão do Condutor e é encaminhado para a página de enquadramento do Balcão do Condutor.             |
+| Selecionar serviço no quadro de serviços | No PDUN, o cidadão seleciona o serviço no quadro de serviços e é encaminhado para a página da ficha de serviço.                                 |
+| Pesquisar e selecionar serviço           | No PDUN, o cidadão pesquisa pelo serviço e ao selecioná-lo é encaminhado para a página da ficha de serviço.                                     |
 | Visualizar ficha de serviço              | Na página da ficha de serviço, é apresentada a informação sobre o serviço.                                                                      |
 | Autenticar                               | O cidadão efetua o login, utilizando o cartão de cidadão, ou chave móvel digital.                                                               |
 | Visualizar área Balcão do Condutor       | Após o login, o cidadão é encaminhado para a página inicial do Balcão do Condutor.                                                              |
-| Consultar Pontos                         | Na página inicial do Balcão do Condutor, o cidadão pode visualizar a informação referente aos seus pontos da carta de condução.                 |
+| Consultar Estado                         | Na página inicial do Balcão do Condutor, o cidadão pode visualizar a informação referente ao estado da sua carta de condução.                   |  
 
-### Consulta de processos de contraordenação rodoviária
-
-#### Serviço
-
-Consulta de processos de contraordenação rodoviária.
-
-<figure><img src="../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Vista alto nível do serviço Consulta de processos de contraordenação rodoviária</p></figcaption></figure>
-
-#### Objetos de negócio do serviço
-
-Contraordenação - Define-se como contraordenação rodoviária todo o facto ilícito e censurável que preencha um tipo legal correspondente á violação de norma do Código da Estrada e de legislação complementar, para a qual se estabeleça uma coima (art.º 131º do Código da Estrada).
-
-#### Utilizadores do serviço
-
-Condutor:
-
-* Acede ao Balcão do Condutor no ePortugal, e autentica-se com o Cartão de Cidadão ou Chave Móvel Digital.&#x20;
-* Consulta o serviço Consulta de processos de contraordenação rodoviária.
-
-#### Processo de negócio
-
-Consulta de processos de contraordenação rodoviária.
-
-<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption><p>Vista do Processo de Negócio Consulta de processos de contraordenação rodoviária</p></figcaption></figure>
-
-| Atividade                                     | Descrição                                                                                                                                       |
-| --------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| Acesso via redes sociais                      | O processo começa com o acesso do cidadão à página de enquadramento do Balcão do Condutor, via redireccionamento de rede social.                |
-| Acesso via ePortugal                          | O processo começa com o acesso do cidadão ao portal ePortugal.                                                                                  |
-| Acesso via motor de pesquisa                  | O processo começa com o acesso do cidadão à página da ficha do serviço, via resultado de uma pesquisa na internet.                              |
-| Visualizar página de enquadramento            | Na página de enquadramento do Balcão do Condutor, o cidadão seleciona o serviço, sendo encaminhado para a página da ficha do serviço do mesmo.  |
-| Selecionar destaque Balcão do Condutor        | No portal ePortugal, o cidadão seleciona o destaque do Balcão do Condutor e é encaminhado para a página de enquadramento do Balcão do Condutor. |
-| Selecionar serviço no quadro de serviços      | No portal ePortugal, o cidadão seleciona o serviço no quadro de serviços e é encaminhado para a página da ficha de serviço.                     |
-| Pesquisar serviço e selecionar serviço        | No portal ePortugal, o cidadão pesquisa pelo serviço e ao selecioná-lo é encaminhado para a página da ficha de serviço.                         |
-| Visualizar ficha de serviço                   | Na página da ficha de serviço, é apresentada a informação sobre o serviço.                                                                      |
-| Autenticar                                    | O cidadão efetua o login, utilizando o cartão de cidadão, ou chave móvel digital.                                                               |
-| Visualizar área Balcão do Condutor            | Após o login, o cidadão é encaminhado para a página inicial do Balcão do Condutor.                                                              |
-| Consultar processo contraordenação rodoviária | Na página do Balcão do Condutor, o cidadão pode visualizar a informação referente aos Processos de contraordenação rodoviária.                  |
 
 ## Arquitetura aplicacional
 
