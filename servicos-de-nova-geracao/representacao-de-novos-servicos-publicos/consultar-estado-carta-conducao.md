@@ -91,13 +91,13 @@ Consultar estado da carta de condução.
 
 ## Arquitetura aplicacional
 
-### Consulta de pontos da carta de condução
+### Consulta de Estado da carta de condução
 
 #### Processo aplicacional
 
-Consultar pontos da carta de condução.
+Consultar Estado da carta de condução.
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption><p>Vista do Processo Aplicacional do serviço Consultar Pontos da Carta de Condução</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/proc-app-Consulta de Estado da carta de condução.png" alt=""><figcaption><p>Vista do Processo Aplicacional do serviço Consultar Estado da Carta de Condução</p></figcaption></figure>
 
 | Atividade                                            | Descrição                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
