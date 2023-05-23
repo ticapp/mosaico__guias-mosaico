@@ -56,9 +56,9 @@ Apresenta:
 
 #### **Serviço**
 
-Consulta de estado da carta de condução.
+Consulta de Estado da carta de condução.
 
-<figure><img src="../../.gitbook/assets/serviço-consulta-estado-cc.png" alt=""><figcaption><p>Vista alto nível do serviço Consulta de Estado da Carta de Condução</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/serviço-consulta-estado-cc.png" alt=""><figcaption><p>  Vista alto nível do serviço Consulta de Estado da Carta de Condução</p></figcaption></figure>
 
 #### **Objetos de negócio do serviço**
 
@@ -66,11 +66,11 @@ Consulta de estado da carta de condução.
 
 #### **Utilizadores do serviço**
 
-* Condutor - Acede ao Balcão do Condutor no portal ePortugal e autentica-se com o Cartão de Cidadão ou Chave Móvel Digital. Consulta o serviço consulta de pontos da carta de condução.
+* Condutor - Acede ao Balcão do Condutor no PDUN e autentica-se com o Cartão de Cidadão ou Chave Móvel Digital. Consulta o serviço consulta de estado da carta de condução.
 
 #### Processo de negócio
 
-Consultar pontos da carta de condução.
+Consultar estado da carta de condução.
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Vista do Processo de Negócio do serviço Consultar pontos da carta de condução</p></figcaption></figure>
 
