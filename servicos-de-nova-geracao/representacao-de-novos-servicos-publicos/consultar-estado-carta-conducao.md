@@ -118,15 +118,13 @@ A realização das etapas do processo aplicacional, é suportada pelo seguinte s
 
 E é suportada também pelas Plataformas Comuns:
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Vista das Plataformas comuns utilizadas no serviço Consulta de pontos da carta de condução</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/plataformas-pdun-Consulta de Estado da carta de condução.png" alt=""><figcaption><p>Vista das Plataformas comuns utilizadas no serviço Consulta de Estado da carta de condução</p></figcaption></figure>
 
 | Plataforma Comum                       | Serviços                                                                                                                                                                                                                                                                                             |
 | -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ePortugal.gov                          | Realiza o serviço de acesso eletrónico aos serviços públicos.                                                                                                                                                                                                                                        |
-| Catálogo de Entidades e Serviços (CES) | A apresentação da página inicial feita pela interface do ePortugal, com base na informação registada na Ficha do Serviço no CES pela Entidade Aderente responsável pelo serviço, onde consta também o destino e o tipo do redireccionamento a realizar.                                              |
-| Plataforma do Serviço de Autenticação  | Realiza o serviço de autenticação no portal ePortugal.                                                                                                                                                                                                                                               |
-| Plataforma de Integração (iAP-PI)      | Realiza a integração entre o Balcão do Condutor e o serviço de consulta de pontos da carta de condução, realizado pelo Sistema da ANSR.                                                                                                                                                              |
-| Gestor de Eventos                      | Disponibiliza os serviços e interfaces necessários para coletar, catalogar e armazenar os atributos que caracterizam os eventos ocorridos no Balção do condutor. Como exemplo de eventos, temos o pedido de consulta de pontos e a respetiva resposta via iAP-PI aos serviços aplicacionais do SIGA. |
+| Portal Digital Único Nacional                       | Realiza os serviços necessários para os cidadãos descobrirem e acederem aos serviços públicos.                                                                                                                                                                                                                                        |
+| Autenticação.GOV  | Realiza o serviço de autenticação no PDUN.                                                                                                                                                                                                                                               |
+| Omnicanal    | Realiza os serviços relativamente ao Assistente Virtual e às APIs responsaveis pela gestão da informação do cidadão.                                                                                                                                                              | 
 
 #### Arquitetura completa do serviço
 
