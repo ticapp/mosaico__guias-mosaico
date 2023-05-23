@@ -72,7 +72,7 @@ Consulta de Estado da carta de condução.
 
 Consultar estado da carta de condução.
 
-<figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>Vista do Processo de Negócio do serviço Consultar pontos da carta de condução</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Consulta de Estado da carta de condução.png" alt=""><figcaption><p>Vista do Processo de Negócio do serviço Consultar estado da carta de condução</p></figcaption></figure>
 
 | Atividade                                | Descrição                                                                                                                                       |
 | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
