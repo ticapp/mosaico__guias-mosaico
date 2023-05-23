@@ -52,13 +52,13 @@ Apresenta:
 
 ## Arquiterura de negócio
 
-### Consulta de pontos da carta de condução
+### Consulta de estado da carta de condução
 
 #### **Serviço**
 
-Consulta de pontos da carta de condução.
+Consulta de estado da carta de condução.
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Vista alto nível do serviço Consulta de pontos da carta de condução</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/serviço-consulta-estado-cc.png" alt=""><figcaption><p>Vista alto nível do serviço Consulta de Estado da Carta de Condução</p></figcaption></figure>
 
 #### **Objetos de negócio do serviço**
 
