@@ -58,7 +58,7 @@ Apresenta:
 
 Consulta de Estado da carta de condução.
 
-<figure><img src="../../.gitbook/assets/serviço-consulta-estado-cc.png" alt=""><figcaption><p>  Vista alto nível do serviço Consulta de Estado da Carta de Condução</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/serviço-consulta-estado-cc.png" alt=""><center><p>Vista alto nível do serviço Consulta de Estado da Carta de Condução</p></center></figure>
 
 #### **Objetos de negócio do serviço**
 
