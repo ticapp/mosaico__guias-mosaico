@@ -130,3 +130,6 @@ E é suportada também pelas Plataformas Comuns:
 
 <figure><img src="../../.gitbook/assets/arq-Consulta de Estado da carta de condução.png" alt=""><figcaption><p>Vista Global do serviço Consulta de Estado da carta de condução</p></figcaption></figure>
 
+###### Definição da API "Consulta de Estado da Carta de Condução"
+Pode ser consultada [aqui](https://dev-apigw-3-pdun.northeurope.cloudapp.azure.com/catalog/api/4cb63ae4-0654-4606-b63a-e406541606d9/doc?page=2615f732-ecea-4f7a-95f7-32eceaef7aee) 
+
